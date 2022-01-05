@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 05 Jan 2022 17:49:07 at http://zengins-stuff.weebly.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y http://zengins-stuff.weebly.com/ -O1 "C:\My Web Sites\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:49:08	Warning: 	Note: due to zengins-stuff.weebly.com remote robots.txt rules, links beginning with these path will be forbidden: /ajax/, /apps/ (see in the options to disable this)
+17:51:24	Error: 	"Forbidden" (403) at link cdn1.editmysite.com/ (from zengins-stuff.weebly.com/)
+18:12:01	Error: 	"Forbidden" (403) at link https://cdn2.editmysite.com/js/ (from cdn2.editmysite.com/js/site/main.js?buildTime=1482368310)
+18:12:01	Error: 	"Not Found" (404) at link zengins-stuff.weebly.com/o (from cdn2.editmysite.com/js/site/main.js?buildTime=1482368310)
+18:12:01	Error: 	"Not Found" (404) at link zengins-stuff.weebly.com/mustache.js (from cdn2.editmysite.com/js/site/main.js?buildTime=1482368310)
+18:12:01	Error: 	"Not Found" (404) at link zengins-stuff.weebly.com/formSubmit.php (from cdn2.editmysite.com/js/site/main.js?buildTime=1482368310)
+18:12:01	Error: 	"Not Found" (404) at link zengins-stuff.weebly.com/formSubmitAjax.php (from cdn2.editmysite.com/js/site/main.js?buildTime=1482368310)
+18:12:01	Error: 	"Not Found" (404) at link zengins-stuff.weebly.com/weebly/libraries/videojs/video-js.swf (from cdn2.editmysite.com/js/site/main.js?buildTime=1482368310)
+18:12:01	Error: 	"Not Found" (404) at link zengins-stuff.weebly.com/AppleWebKit/ (from cdn2.editmysite.com/js/site/main.js?buildTime=1482368310)
+18:12:01	Error: 	"Not Found" (404) at link zengins-stuff.weebly.com/Mobile/ (from cdn2.editmysite.com/js/site/main.js?buildTime=1482368310)
+18:12:01	Warning: 	Retry after error -4 (Incorrect length (215587 Bytes, 1170029 expected)) at link zengins-stuff.weebly.com/uploads/8/2/9/9/82999774/836967072.png (from zengins-stuff.weebly.com/clients.html)
+18:12:01	Warning: 	Retry after error -2 (Receive Time Out) at link zengins-stuff.weebly.com/uploads/8/2/9/9/82999774/247445763.png (from zengins-stuff.weebly.com/clients.html)
+18:12:01	Warning: 	Note: due to www.weebly.com remote robots.txt rules, links beginning with these path will be forbidden: /designer_pricing.php, /ipad/, /uploads/7/0/2/6/70262511/custom_themes/, /uploads/8/5/1/4/85141968/custom_themes/, /uploads/, /editor/, /weebly/, /choose-a-plan/, /free-trial/, /portfolio-site/, /start-your-blog/, /start-your-store/, /trial/, /wedding-site/, /r/, /lp/, /data-processing-terms/, /home/, /mindbody/, /app-center/oauth/authorize (see in the options to disable this)
+18:12:02	Warning: 	Retry after error -4 (Incorrect length (176847 Bytes, 448795 expected)) at link zengins-stuff.weebly.com/uploads/8/2/9/9/82999774/949691053.png (from zengins-stuff.weebly.com/clients.html)
+18:14:13	Warning: 	Moved Permanently for zengins-stuff.weebly.com/store/checkout/
+18:14:13	Warning: 	Redirected link is identical because of 'URL Hack' option: zengins-stuff.weebly.com/store/checkout/ and https://zengins-stuff.weebly.com/store/checkout/
+18:14:13	Warning: 	File has moved from zengins-stuff.weebly.com/store/checkout/ to https://zengins-stuff.weebly.com/store/checkout/
+18:14:13	Error: 	"Not Found" (404) at link zengins-stuff.weebly.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from cdn2.editmysite.com/js/wsnbn/snowday262.js)
+18:14:13	Error: 	"Not Found" (404) at link zengins-stuff.weebly.com/payload.js (from cdn2.editmysite.com/js/wsnbn/snowday262.js)
+18:14:13	Error: 	"Not Found" (404) at link zengins-stuff.weebly.com/POST (from cdn2.editmysite.com/js/wsnbn/snowday262.js)
+18:14:13	Error: 	"Not Found" (404) at link www.weebly.com/"https://pagead2.googlesyndication.com/pagead/show_ads.js/" (from www.weebly.com/weebly/apps/serveAds.php?type=adsense&elementid=894148705153085600&ineditor=0&subdomain=zengins-stuff.weebly.com&pubid=pub-1557468088946117&adformat=468x60&adtype=text_image&bordercolor=FFFFFF&bgcolor=FFFFFF&linkcolor=0F53FF&textcolor=000000&urlcolor=008000)
+
+HTTrack Website Copier/3.49-2 mirror complete in 25 minutes 7 seconds : 354 links scanned, 329 files written (54047688 bytes overall) [43372391 bytes received at 28780 bytes/sec], 16565144 bytes transferred using HTTP compression in 122 files, ratio 33%, 3.0 requests per connection
+(13 errors, 8 warnings, 0 messages)

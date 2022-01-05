@@ -1,0 +1,23 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+zengins-stuff.weebly.com	TRUE	/	FALSE	1999999999	is_mobile	0
+www.weebly.com	TRUE	/	FALSE	1999999999	cookie-consent	%7B%22allowStrictlyNecessaryCookies%22%3Atrue%2C%22allowFunctionalityCookies%22%3Atrue%2C%22allowPerformanceCookies%22%3Atrue%2C%22allowTargetingCookies%22%3Atrue%7D
+www.weebly.com	TRUE	/	FALSE	1999999999	srv_domainuserid	d84ed2e8d758b1c5d1206ab09718250804c53ed6
+.weebly.com	TRUE	/	FALSE	1999999999	referer	%7B%22referer%22%3A%22http%3A%5C%2F%5C%2Fzengins-stuff.weebly.com%5C%2F%22%2C%22landing%22%3A%22%5C%2Fsignup%3Futm_source%3Dinternal%26utm_medium%3Dfooter%22%2C%22date%22%3A1641405033%7D
+www.weebly.com	TRUE	/	FALSE	1999999999	internal_signup_referer	%7B%22internal_signup_referer%22%3A%22http%3A%5C%2F%5C%2Fwww.weebly.com%5C%2Fsignup%22%7D
+www.weebly.com	TRUE	/	FALSE	1999999999	external_signup_referer	%7B%22external_signup_referer%22%3A%22http%3A%5C%2F%5C%2Fzengins-stuff.weebly.com%5C%2F%22%7D
+www.weebly.com	TRUE	/	FALSE	1999999999	wcid	urzo2wm86u3kj3mx
+www.weebly.com	TRUE	/	FALSE	1999999999	_csrf	189h5Gath_Ys2_RwEEp3IWvsHfCdRKqL-s8cljc5LzA
+www.weebly.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	eyJpdiI6ImRHNnlGXC9xSzVEZm1ldzVTUzBoaDlBPT0iLCJ2YWx1ZSI6ImpYNk1rZXp2ckQxTUxwWGZPcGpBZXVIUVBcL25uTGNiR05ha005dGFBbU9CYWM1RENUWHpSRWx3SVdsS05pdDg4RDZkWUdNTTJJc1h2TEtNcTlFbUZtMUxwcmhoXC8yaWRIN1wvTVVKWURaM25WWjFmRFdCdDIzc2NkRFZCbndmUU9xIiwibWFjIjoiZTQ0MjM2Zjk0OGM5YTgyODUyNWNjZDZhZDcxOGQzZTg3NWQ3NjYxOTEzMDE3MDllNGJmMDU0NGYxOTU0NTJjMiJ9
+www.weebly.com	TRUE	/	FALSE	1999999999	laravel_session	eyJpdiI6IjJxeGY3YXFvcHBMajg2cW5yQ3lNcHc9PSIsInZhbHVlIjoiNHNuY1pnUkJoQmhBdkVWSWVaSnAwaXRCQlA5RWtYRm5iN3d2QmVQUFVITkNEQlFNcHUrckI2MWtvTys4OTkrc1l3bUFCM2h6TmRqb0lnK3ZKbkl3dGxKUlgyc2VIUXhKUVpnOTRwcXVrWHFQbkhsdm5qQ1R5MHNMZG1TazFreGEiLCJtYWMiOiI1ZTYxYjFmYWQwZDhjZDZmMmNkODNmMWFjY2UwYTM5ZWViZjdjNTIzZmI2ODExMzhiMmQxNzgxYmE2YmRiYTgzIn0%3D
+weebly.com	TRUE	/	FALSE	1999999999	sto-id-web.prod-front-door-k8s	JDBKBMAK
+squareup.com	TRUE	/	FALSE	1999999999	Category	C0001
+zengins-stuff.weebly.com	TRUE	/	FALSE	1999999999	cookie-consent	%7B%22allowStrictlyNecessaryCookies%22%3Atrue%2C%22allowFunctionalityCookies%22%3Atrue%2C%22allowPerformanceCookies%22%3Atrue%2C%22allowTargetingCookies%22%3Atrue%7D
+zengins-stuff.weebly.com	TRUE	/	FALSE	1999999999	language	en
+www.weebly.com	TRUE	/	FALSE	1999999999	language	en
+weebly.com	TRUE	/	FALSE	1999999999	sto-id-editor	DNBDBOAK
+.squareup.com	TRUE	/	FALSE	1999999999	_savt	5f5f5760-7836-4fb2-b8a7-fe64fef40531
+squareup.com	TRUE	/	FALSE	1999999999	_onboard_session	E5z9LkafdRtvhW6Lmd6f8LHeeslXVtB%2Fzpwm%2BaKpzS4yCg2iKuwAOe%2BUCb7Hl6FXbwEW%2BOifle199BHtp5s%2F4q5IFYnmbDlduxKRzI0UQteWNpBIAcMa0idjV68NzmU%2Bo%2BuecnTuDD467IVUe%2FBXFWJSGTvUH613M0dtjw93Y%2Bwu9WL3gxeG3A%3D%3D--HKZea3ICicQAnb1Y--EdSw4A1tTKF470P6DkW92Q%3D%3D
+squareup.com	TRUE	/	FALSE	1999999999	squareGeo	GB-LND
+squareup.com	TRUE	/	FALSE	1999999999	SameSite	Strict
+
